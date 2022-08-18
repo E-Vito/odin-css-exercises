@@ -1,0 +1,19 @@
+.basic {
+	background-color: #f45575;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.upgraded {
+	font-size: 24px;
+}
+
+#cool-div {
+	color: #1696f8;
+	font-size: 36px;
+}
+
+#cooler-div {
+	background-color: #49f816;
+	font-size: 24px;
+	font-weight: bold;
+}
